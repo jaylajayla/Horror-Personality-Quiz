@@ -1,6 +1,5 @@
-# Personality Quiz Starter Code
+# Personality Quiz Code
 
-This is a place for you to start building your personality quiz!
 
 ### Project Requirements
 Your project should:
@@ -18,17 +17,6 @@ You can extend your project further by:
 - Creating a button to update result instead of having it display unprompted.
 - Disabling buttons after a person selects an answer.
 
-
-### Image Attributions
-*Tell us where you found the image you are using! Make sure it is in the public domain, has a license that allows you to use it, or is one you took on your own. Check out [archive.org](https://archive.org/), [Pixabay](https://pixabay.com/), [Unsplash](https://unsplash.com/), or [Burst](https://burst.shopify.com/) for free, uncopyrighted images.*
-- [Espresso](https://pixabay.com/photos/coffee-espresso-short-cup-mug-731330/)
-- [Matcha latte](https://pixabay.com/photos/matcha-green-tea-latt%C3%A9-heart-2683990/)
-- [Chocolate Croissant](https://pixabay.com/photos/chocolate-croissant-bakery-hunger-4840779/)
-- [Egg Sammy](https://pixabay.com/photos/bacon-egg-and-cheese-2834906/)
-- [Bed](https://pixabay.com/photos/bed-pillows-headboard-bedroom-2167288/)
-- [Window](https://pixabay.com/photos/window-window-seat-cushions-2227301/)
-
----
 
 ## File Overview
 
